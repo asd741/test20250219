@@ -1,0 +1,28 @@
+.d-flex {
+  display: flex;
+}
+.align-items-center {
+  align-items: center;
+}
+.justify-content-center {
+  justify-content: center;
+}
+.f-center {
+  display: flex !important;
+  align-items: center;
+  justify-content: center;
+}
+.position-center {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+}
+.pointer {
+  cursor: pointer;
+}
+.flex-1 {
+  flex: 1;
+}
